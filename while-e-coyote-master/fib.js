@@ -1,5 +1,3 @@
-// I did not do this 
-
 const prompt = require('prompt-sync')({
     sigint: true
 });
